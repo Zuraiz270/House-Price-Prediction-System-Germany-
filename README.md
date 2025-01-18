@@ -1,5 +1,5 @@
 
-# House Price Prediction System (Germany)
+# House Price Prediction System
 
 This project is a **House Price Prediction System** designed for the German real estate market. It uses machine learning and named entity recognition (NER) to predict house prices for the next 12 months based on user inputs and house features.
 
